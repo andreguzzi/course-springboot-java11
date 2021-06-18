@@ -13,7 +13,7 @@ import com.andrespring.course.entities.Order;
 import com.andrespring.course.services.OrderService;
 
 @RestController
-@RequestMapping(value = "/Orders")
+@RequestMapping(value = "/orders")
 public class OrderResource {
 
 	@Autowired
