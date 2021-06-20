@@ -2,7 +2,7 @@
 
 Projeto em Desenvolvimento..
 
-Sistema funcional de Pagamentos utilizando Java, JPA, H2, SpringBoot
+Back-End sistemas de pedidos utilizando Java, JPA, H2, SpringBoot
 
-Estoque, Usuarios, Produtos, Pedidos, Pagamentos...
+Usuarios, Produtos, Pedidos, Pagamentos...
 
